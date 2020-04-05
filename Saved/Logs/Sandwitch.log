@@ -1570,3 +1570,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.05-17.28.01:802][200]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 180
 [2020.04.05-17.28.05:321][303]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 170
 [2020.04.05-17.28.06:642][333]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 160
+[2020.04.05-17.28.08:683][370]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 150
+[2020.04.05-17.28.13:281][460]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 140
+[2020.04.05-17.28.15:357][518]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 130
+[2020.04.05-17.28.16:979][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 120
+[2020.04.05-17.28.19:757][633]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 110
+[2020.04.05-17.28.22:623][670]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 100
+[2020.04.05-17.28.22:623][670]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 90
+[2020.04.05-17.28.26:418][772]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 80
+[2020.04.05-17.28.28:807][834]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2020.04.05-17.28.30:077][869]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.04.05-17.28.33:770][973]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.04.05-17.28.34:949][  1]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.04.05-17.28.36:978][ 54]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.04.05-17.28.39:708][131]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.04.05-17.28.41:906][189]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.04.05-17.28.43:198][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.04.05-17.28.44:531][260]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.04.05-17.28.45:134][275]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.04.05-17.28.45:217][278]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
