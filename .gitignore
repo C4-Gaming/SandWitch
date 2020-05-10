@@ -1,3 +1,8 @@
 
-Saved/Logs/Sandwitch.log
 *.log
+Saved/Config/CrashReportClient/*
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/AutoScreenshot.png
+
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
