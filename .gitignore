@@ -1,9 +1,4 @@
 *.log
-Config/DefaultEditorPerProjectUserSettings.ini
-Saved/Autosaves/
-Saved/AutoScreenshot.png
-Saved/Backup/
-Saved/Config/
-Saved/Crashes/
-Saved/Logs/
-Intermediate/CachedAssetRegistry.bin
+Config/
+Saved/
+Intermediate/
